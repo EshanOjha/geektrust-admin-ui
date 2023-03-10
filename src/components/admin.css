@@ -1,0 +1,43 @@
+
+.editInput {
+    font-family: inherit;
+    padding: 2px;
+    width: fit-content;
+}
+
+.editInput:focus {
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+.edit-btn {
+    color: green;
+}
+
+.edit-btn:hover {
+    background-color: green;
+}
+
+.btn {
+    margin: .5em;
+    font-size: 1em;
+    text-transform: uppercase;
+    background: var(--clr-primary-7);
+    color: var(--clr-black);
+    letter-spacing: var(--spacing);
+    display: inline-block;
+    transition: var(--transition);
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    border-radius: var(--radius);
+    height: 2em;
+    width: 2em;
+    font-weight: bold;
+}
+
+.btn:hover {
+    color: var(--clr-white);
+    background: var(--clr-red-light);
+}

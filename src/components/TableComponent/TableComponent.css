@@ -1,0 +1,11 @@
+.header {
+    font-weight: bold;
+}
+
+.userTable {
+    border: 1px solid black;
+    margin-top: 1em;
+}
+.actionCell {
+    display: flex !important;
+}
