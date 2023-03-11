@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/geektrust-admin-ui/0.0.1/static/css/main.b04e8ba0.css",
-    "main.js": "/geektrust-admin-ui/0.0.1/static/js/main.d059a86a.js",
-    "static/js/787.d6cf4805.chunk.js": "/geektrust-admin-ui/0.0.1/static/js/787.d6cf4805.chunk.js",
-    "index.html": "/geektrust-admin-ui/0.0.1/index.html",
-    "main.b04e8ba0.css.map": "/geektrust-admin-ui/0.0.1/static/css/main.b04e8ba0.css.map",
-    "main.d059a86a.js.map": "/geektrust-admin-ui/0.0.1/static/js/main.d059a86a.js.map",
-    "787.d6cf4805.chunk.js.map": "/geektrust-admin-ui/0.0.1/static/js/787.d6cf4805.chunk.js.map"
+    "main.css": "/geektrust-admin-ui./static/css/main.b04e8ba0.css",
+    "main.js": "/geektrust-admin-ui./static/js/main.5d2f0820.js",
+    "static/js/787.d6cf4805.chunk.js": "/geektrust-admin-ui./static/js/787.d6cf4805.chunk.js",
+    "index.html": "/geektrust-admin-ui./index.html",
+    "main.b04e8ba0.css.map": "/geektrust-admin-ui./static/css/main.b04e8ba0.css.map",
+    "main.5d2f0820.js.map": "/geektrust-admin-ui./static/js/main.5d2f0820.js.map",
+    "787.d6cf4805.chunk.js.map": "/geektrust-admin-ui./static/js/787.d6cf4805.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b04e8ba0.css",
-    "static/js/main.d059a86a.js"
+    "static/js/main.5d2f0820.js"
   ]
 }
