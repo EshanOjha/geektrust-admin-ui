@@ -1,7 +1,8 @@
 import { Button } from "./ButtonComponent";
 import React from "react";
 import { useGlobalContext } from "../context/Context";
-import {SkipPrevious, SkipNext, ArrowBack, ArrowRight } from '@mui/icons-material';
+import ArrowRightAltIcon from '@mui/icons-material/ArrowRightAlt';
+import {SkipPrevious, ArrowBack, ArrowRight } from '@mui/icons-material';
 import './admin.css'
 function ButtonListComponent()
 {
@@ -33,7 +34,7 @@ function ButtonListComponent()
               <ArrowRight />
             </Button>
             <Button className="last-btn" text="last">
-              <SkipNext />
+              <ArrowRightAltIcon />
             </Button>
           </div>
         </div>

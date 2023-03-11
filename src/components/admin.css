@@ -41,3 +41,9 @@
     color: var(--clr-white);
     background: var(--clr-red-light);
 }
+
+.page-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
