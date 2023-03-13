@@ -4,12 +4,14 @@
     justify-content: flex-start;
 }
 
-#deleteId {
-    padding: 7px;
+#delete-selected {
+    padding:0.7rem;
     width: fit-content;
-    font-size: .5em;
-    margin-right: 6em;
     font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
 }
 
 
@@ -22,6 +24,11 @@
     box-shadow: none;
 }
 
-.delete-icon {
-    color: red;
+
+
+@media only screen and (max-width: 600px) {
+    .btn-container {
+        display: block;
+        padding: 1rem;
+    }
 }

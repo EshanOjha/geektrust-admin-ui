@@ -19,7 +19,7 @@ function ButtonListComponent()
 
     return (
         <div className="btn-container">
-          <Button className="delete-btn" text="delete-selected" id={"deleteId"}>
+          <Button className="delete-btn" text="delete-selected" id="delete-selected">
             Delete Selected
           </Button>
           <div className="page-container">
